@@ -1,0 +1,2 @@
+1-First step is to run routor creator.py for creating todays methodds for enigma in a today_routor.enigma file
+2- run the enigma.py file for encoding your text 
